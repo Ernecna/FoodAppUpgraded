@@ -32,18 +32,16 @@ Usage
 Upon starting the application, a list of foods is displayed on the home screen. Clicking on any food item navigates you to a page displaying its details.
 
 Screenshots
-## Screenshots
-![Screenshot_1708521071](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/aa0eb61f-8e3e-42a6-8d92-f5e8eaa4b94b)
-![Screenshot_1708521067](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/0b27916f-c364-4a86-830f-b3f854ca90df)
-![Screenshot_1708521017](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/dd769f28-7c97-4a77-b36c-2e820f6c43d9)
-![Screenshot_1708521081](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/f8026eae-53b1-4404-826c-e31822124b7d)
 
 
 
 
+![Screenshot_1708521017](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/ab3fa51e-03dd-40d5-892c-0d07dd6524a6)
 
 
 
+
+![Screenshot_1708521067](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/aec5c64f-46e9-43a0-ad85-6d699e548a4a)
 
 
 
