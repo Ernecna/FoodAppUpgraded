@@ -10,10 +10,10 @@ Basic Food App provides the basic design of a food ordering application. This ap
 - User-friendly interface with simple navigation.
 - Display of food images and prices in the list.
 
-![Screenshot_1708521081](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/875e4d2c-f048-4761-a873-9e3e7b3245ef)
-![Screenshot_1708521017](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/8badbcfc-0c3c-446e-8149-39e3634e9e93)
 
 
+
+![last](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/eb4544cd-7e75-4b2b-85c6-c34c52f0327c)
 
 
 
