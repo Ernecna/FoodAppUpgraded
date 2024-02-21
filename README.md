@@ -10,6 +10,13 @@ Basic Food App provides the basic design of a food ordering application. This ap
 - User-friendly interface with simple navigation.
 - Display of food images and prices in the list.
 
+![Screenshot_1708521081](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/875e4d2c-f048-4761-a873-9e3e7b3245ef)
+![Screenshot_1708521017](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/8badbcfc-0c3c-446e-8149-39e3634e9e93)
+
+
+
+
+
 ## Installation
 
 1. Clone this project:
@@ -31,12 +38,6 @@ flutter run
 Usage
 Upon starting the application, a list of foods is displayed on the home screen. Clicking on any food item navigates you to a page displaying its details.
 
-Screenshots
-
-
-
-
-![Screenshot_1708521017](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/ab3fa51e-03dd-40d5-892c-0d07dd6524a6)
 
 
 
