@@ -1,16 +1,48 @@
 # basicfoodapp
 
-A new Flutter project.
+# Basic Food App
 
-## Getting Started
+Basic Food App provides the basic design of a food ordering application. This application is developed using Flutter.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Access to a basic list of foods and their details.
+- User-friendly interface with simple navigation.
+- Display of food images and prices in the list.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this project:
+
+```bash
+git clone https://github.com/user/basicfoodapp.git
+Navigate to the project directory:
+bash
+Copy code
+cd basicfoodapp
+Install the required dependencies:
+bash
+Copy code
+flutter pub get
+Run the application:
+bash
+Copy code
+flutter run
+Usage
+Upon starting the application, a list of foods is displayed on the home screen. Clicking on any food item navigates you to a page displaying its details.
+
+Screenshots
+## Screenshots
+
+<img src="https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/44dceb20-374a-4c9f-8372-42f0c19cc23e" alt="Screenshot_1708521081" width="500">
+
+<img src="https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/75a64da0-7b1e-4cf8-ab09-beecc8cd3e5b" alt="Screenshot_1708521071" width="500">
+
+<img src="https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/6edd9f9f-6bdd-4d93-997f-d7d2251ddaaf" alt="Screenshot_1708521067" width="500">
+
+<img src="https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/5313266d-6815-49fe-9218-e7f1a10f3166" alt="Screenshot_1708521017" width="500">
+
+
+
+
+
