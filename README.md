@@ -33,14 +33,16 @@ Upon starting the application, a list of foods is displayed on the home screen. 
 
 Screenshots
 ## Screenshots
+![Screenshot_1708521071](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/aa0eb61f-8e3e-42a6-8d92-f5e8eaa4b94b)
+![Screenshot_1708521067](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/0b27916f-c364-4a86-830f-b3f854ca90df)
+![Screenshot_1708521017](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/dd769f28-7c97-4a77-b36c-2e820f6c43d9)
+![Screenshot_1708521081](https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/f8026eae-53b1-4404-826c-e31822124b7d)
 
-<img src="https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/44dceb20-374a-4c9f-8372-42f0c19cc23e" alt="Screenshot_1708521081" width="500">
 
-<img src="https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/75a64da0-7b1e-4cf8-ab09-beecc8cd3e5b" alt="Screenshot_1708521071" width="500">
 
-<img src="https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/6edd9f9f-6bdd-4d93-997f-d7d2251ddaaf" alt="Screenshot_1708521067" width="500">
 
-<img src="https://github.com/Ernecna/FoodAppUpgraded/assets/97342233/5313266d-6815-49fe-9218-e7f1a10f3166" alt="Screenshot_1708521017" width="500">
+
+
 
 
 
